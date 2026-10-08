@@ -6,8 +6,6 @@
 
 O objetivo é entender, através de implementação e experimentação, como o software funciona em um nível mais próximo do hardware, estudando não apenas a sintaxe do Assembly, mas também os mecanismos envolvidos na execução de um programa.
 
-### Objetivos
-
 # Este repositório é utilizado para estudar e experimentar conceitos como:
 
 - Assembly x86-64
